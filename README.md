@@ -4,9 +4,7 @@ This project focuses on diagnosing Diabetic Retinopathy (DR) from retinal fundus
 
 ## Project Contents
 
-- **`train.py`**: Script for training the CNN model to detect Diabetic Retinopathy.
-- **`evaluate.py`**: Script for evaluating the model and testing its predictions' accuracy.
-- **`model.py`**: Defines the CNN architecture used to process and classify retinal fundus images.
+- **`diagnosis-of-diabetic-retinopathy-by-cnn-pytorch.ipynb.py`**: Script for training the CNN model to detect Diabetic Retinopathy.
 - **`utils.py`**: Helper functions for loading and preprocessing data.
 - **`requirements.txt`**: List of dependencies required to run the project.
 
